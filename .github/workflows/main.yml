@@ -43,7 +43,7 @@ jobs:
 
       - name: Generate js object from csv
         env:
-          DEPLOY_KEY: ${{ secrets.AWESOME_NOTE_PRI_KEY }}
+          DEPLOY_KEY: ${{ secrets.TIMELINE_KEY }}
           GIT_SSH_COMMAND: "ssh -o StrictHostKeyChecking=no"
         uses: actions/setup-node@v1
         with:

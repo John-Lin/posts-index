@@ -57,10 +57,12 @@ jobs:
           npm install
           git clone git@github.com:technologynoteniu/timeline.git
           node csv2json.js
-          node csv2json.js > ./timeline/src/posts-test.js
-          cd timeline && git status && cat src/posts.js
-          # git config --global user.email "do-not-reply@hwchiu.com"
-          # git config --global user.name "GitHub Action"
-          # git add -A
-          # git commit -m "Updated by GitHub Actions from the posts-index project" || true
-          # git push origin HEAD
+          node csv2json.js > ./timeline/src/posts.js
+          cd timeline
+          git config --global user.email "do-not-reply@hwchiu.com"
+          git config --global user.name "GitHub Action"
+          git add -A
+          git commit -m "Updated by GitHub Actions from the posts-index project" || true
+          git push origin HEAD
+          # clean up
+          cd .. && rm -rf timeline

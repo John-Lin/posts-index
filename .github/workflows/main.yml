@@ -42,13 +42,14 @@ jobs:
           git push origin HEAD
 
       - name: Generate js object from csv
-        env:
-          DEPLOY_KEY: ${{ secrets.TIMELINE_KEY }}
-          GIT_SSH_COMMAND: "ssh -o StrictHostKeyChecking=no"
         uses: actions/setup-node@v1
         with:
           node-version: '12.x'
-      - run: |
+      - name: Update timeline
+        env:
+          DEPLOY_KEY: ${{ secrets.TIMELINE_KEY }}
+          GIT_SSH_COMMAND: "ssh -o StrictHostKeyChecking=no"
+        run: |
           git clone git@github.com:technologynoteniu/timeline.git
           cd tools && npm install
           cd tools && node csv2json.js

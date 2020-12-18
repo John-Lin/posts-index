@@ -48,10 +48,10 @@ jobs:
       - name: Update timeline
         env:
           DEPLOY_TIMEKEY:  ${{ secrets.TIMELINE_KEY }}
-          DEPLOY_KEY: ${{ secrets.TIMELINE_KEY }}
           GIT_SSH_COMMAND: "ssh -o StrictHostKeyChecking=no"
         run: |
-          export DEPLOY_KEY=$DEPLOY_TIMEKEY
+          eval "$(ssh-agent -s)"
+          ssh-add - <<< "${DEPLOY_TIMEKEY}"
           git clone git@github.com:technologynoteniu/timeline.git
           cd tools && npm install
           cd tools && node csv2json.js

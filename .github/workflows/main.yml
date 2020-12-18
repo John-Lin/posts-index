@@ -52,6 +52,11 @@ jobs:
         run: |
           eval "$(ssh-agent -s)"
           ssh-add - <<< "${DEPLOY_TIMEKEY}"
+          npm install
           git clone git@github.com:technologynoteniu/timeline.git
-          cd tools && npm install
-          cd tools && node csv2json.js
+          node csv2json.js > ./timeline/src/posts.js
+          git config --global user.email "do-not-reply@hwchiu.com"
+          git config --global user.name "GitHub Action"
+          git add -A
+          git commit -m "Updated by GitHub Actions from the posts-index project" || true
+          git push origin HEAD

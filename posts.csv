@@ -1,4 +1,13 @@
 date,tag,title,link
+2020/12/27,introduction, Liveness/Readiness 介紹,https://www.facebook.com/technologynoteniu/posts/194061299094677
+2020/12/25,terraform, 小技巧打造更穩健的 Terraform, https://www.facebook.com/technologynoteniu/posts/192175929283214
+2020/12/24,introduction, Kubernetes Job 介紹, https://www.facebook.com/technologynoteniu/posts/191446296022844
+2020/12/23,cicd, 微軟專案 Bedrock 分享, https://www.facebook.com/technologynoteniu/posts/190725829428224
+2020/12/22, usecases, Kubernetes 內的版本管理經驗, https://www.facebook.com/technologynoteniu/posts/189996906167783
+2020/12/21,introduction, Knative Serverless 方案介紹, https://www.facebook.com/technologynoteniu/posts/188924539608353
+2020/12/20,others, 遠傳加入 ONF, https://www.facebook.com/technologynoteniu/posts/188334676334006
+2020/12/20,others, GitHub 2021 認證方式改變, https://www.facebook.com/technologynoteniu/posts/188312686336205
+2020/12/20,introduction, Opetator 介紹文, https://www.facebook.com/technologynoteniu/posts/188184803015660
 2020/12/19,tool, kubectl plugin 生態與工具介紹,https://www.facebook.com/technologynoteniu/posts/187434636424010
 2020/12/18,introduction, service catalog 的介紹,https://www.facebook.com/technologynoteniu/posts/186718283162312
 2020/12/17,network, 為什麼 Linked 決定自行打造 Linkerd2-proxy 而不使用主流的 Enovy, https://www.facebook.com/technologynoteniu/posts/185215013312639

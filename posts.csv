@@ -1,4 +1,8 @@
 date,tag,title,link
+2021/01/04,cicd, helmfile 介紹, https://www.facebook.com/technologynoteniu/posts/199482255219248
+2021/01/02,terraform, terraform try/can 功能談, https://www.facebook.com/technologynoteniu/posts/198137098687097
+2020/12/31,usecases, 自動化的準則與經驗談, https://www.facebook.com/technologynoteniu/posts/196695848831222
+2020/12/29,usecases, Kubernetes 管理經驗談, https://www.facebook.com/technologynoteniu/posts/195388485628625
 2020/12/27,introduction, Liveness/Readiness 介紹,https://www.facebook.com/technologynoteniu/posts/194061299094677
 2020/12/25,terraform, 小技巧打造更穩健的 Terraform, https://www.facebook.com/technologynoteniu/posts/192175929283214
 2020/12/24,introduction, Kubernetes Job 介紹, https://www.facebook.com/technologynoteniu/posts/191446296022844

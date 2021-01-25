@@ -1,5 +1,13 @@
 date,tag,title,link
-2021/01/10,kubernetes, secret 入門介紹, https://www.facebook.com/technologynoteniu/posts/203831131451027
+2021/01/23,contaienr, Dockerfile 的小技巧,https://www.facebook.com/technologynoteniu/posts/213107267190080
+2021/01/21,Terraform, Terraform 範例介紹文, https://www.facebook.com/technologynoteniu/posts/211760017324805
+2021/01/19,introduction, 2020 KubeConf 介紹, https://www.facebook.com/technologynoteniu/posts/210372760796864
+2021/01/17,network, Ingress 介紹文,https://www.facebook.com/technologynoteniu/posts/209045874262886
+2021/01/15,others, 勇敢說不，針對工作排列優先度, https://www.facebook.com/technologynoteniu/posts/207776997723107
+2021/01/14,network, SDN 閒談, https://www.facebook.com/technologynoteniu/posts/207099121124228
+2021/01/13,others,Rancher 針對 HCI 超融合架構所打造的 k8s 新專案, https://www.facebook.com/technologynoteniu/posts/206446664522807
+2021/01/11,others,自建 Container Orchestration 平台的三兩事 https://www.facebook.com/technologynoteniu/posts/205169744650499
+2021/01/10,introduction, secret 入門介紹, https://www.facebook.com/technologynoteniu/posts/203831131451027
 2021/01/08,usecases, Jenkins 的一種玩法, https://www.facebook.com/technologynoteniu/posts/202375511596589
 2021/01/06,cicd, git pre-commit hook 的妙用, https://www.facebook.com/technologynoteniu/posts/200872581746882
 2021/01/04,cicd, helmfile 介紹, https://www.facebook.com/technologynoteniu/posts/199482255219248
@@ -10,7 +18,7 @@ date,tag,title,link
 2020/12/25,terraform, 小技巧打造更穩健的 Terraform, https://www.facebook.com/technologynoteniu/posts/192175929283214
 2020/12/24,introduction, Kubernetes Job 介紹, https://www.facebook.com/technologynoteniu/posts/191446296022844
 2020/12/23,cicd, 微軟專案 Bedrock 分享, https://www.facebook.com/technologynoteniu/posts/190725829428224
-2020/12/22, usecases, Kubernetes 內的版本管理經驗, https://www.facebook.com/technologynoteniu/posts/189996906167783
+2020/12/22,usecases, Kubernetes 內的版本管理經驗, https://www.facebook.com/technologynoteniu/posts/189996906167783
 2020/12/21,introduction, Knative Serverless 方案介紹, https://www.facebook.com/technologynoteniu/posts/188924539608353
 2020/12/20,others, 遠傳加入 ONF, https://www.facebook.com/technologynoteniu/posts/188334676334006
 2020/12/20,others, GitHub 2021 認證方式改變, https://www.facebook.com/technologynoteniu/posts/188312686336205

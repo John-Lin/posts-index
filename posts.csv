@@ -1,6 +1,17 @@
 date,tag,title,link
+2021/02/14,cicd, 如何透過 ArgoRollout 來達到金絲雀部署, https://www.facebook.com/technologynoteniu/posts/227319199102220
+2021/02/12,usecases, 如何運行一個最便宜的K8s 叢集, https://www.facebook.com/technologynoteniu/posts/225951499238990
+2021/02/10,observability, Prometheus 教學文, https://www.facebook.com/technologynoteniu/posts/224611209373019
+2021/02/08,usecases, 如何踏入 kubernetes 原始碼, https://www.facebook.com/technologynoteniu/posts/223360019498138
+2021/02/06,introduction, Kustomize 入門介紹, https://www.facebook.com/technologynoteniu/posts/222172022950271
+2021/02/04,others, DevOps 面試經驗談, https://www.facebook.com/technologynoteniu/posts/220867733080700
+2021/02/02,others, 軟體工程師該如何撰寫一份有價值的技術文件, https://www.facebook.com/technologynoteniu/posts/219597926541014
+2021/01/31,usecases, kubectl 1.18 帶來的不相容改變, https://www.facebook.com/technologynoteniu/posts/218323670001773
+2021/01/29,network, Kubernetes Pod 如何透過 CNI 獲取 IP, https://www.facebook.com/technologynoteniu/posts/217032360130904
+2021/01/27,terraform, 透過 Terraform 創建wordpress 的範例,https://www.facebook.com/technologynoteniu/posts/215764940257646
+2021/01/25,contaienr, Docker 20.10 的改變,https://www.facebook.com/technologynoteniu/posts/214479493719524
 2021/01/23,contaienr, Dockerfile 的小技巧,https://www.facebook.com/technologynoteniu/posts/213107267190080
-2021/01/21,Terraform, Terraform 範例介紹文, https://www.facebook.com/technologynoteniu/posts/211760017324805
+2021/01/21,terraform, Terraform 範例介紹文, https://www.facebook.com/technologynoteniu/posts/211760017324805
 2021/01/19,introduction, 2020 KubeConf 介紹, https://www.facebook.com/technologynoteniu/posts/210372760796864
 2021/01/17,network, Ingress 介紹文,https://www.facebook.com/technologynoteniu/posts/209045874262886
 2021/01/15,others, 勇敢說不，針對工作排列優先度, https://www.facebook.com/technologynoteniu/posts/207776997723107

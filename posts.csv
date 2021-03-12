@@ -1,4 +1,18 @@
 date,tag,title,link
+2021/03/11,usecases, GKE 節點與Pod無法自動擴展, https://www.facebook.com/technologynoteniu/posts/243580810809392
+2021/03/09,usecases, CPU Limit 造成服務效能不佳, https://www.facebook.com/technologynoteniu/posts/242276610939812
+2021/03/07,usecases, Conntrack 造成 DNS 出問題, https://www.facebook.com/technologynoteniu/posts/240948024406004
+2021/03/05,network, 如何於 Kubernetes 內使用 tcpdump, https://www.facebook.com/technologynoteniu/posts/239756171191856
+2021/03/05,usecases, Conntrack 造成服務效能不佳, https://www.facebook.com/technologynoteniu/posts/239635037870636
+2021/03/03,usecases, EKS頻繁斷線, https://www.facebook.com/technologynoteniu/posts/238352911332182
+2021/03/01,network, rp_filter 介紹, https://www.facebook.com/technologynoteniu/posts/237086941458779
+2021/02/27,usecases, CPU limit causes poor performance, https://www.facebook.com/technologynoteniu/posts/235844098249730
+2021/02/25,usecases, Fluentd-bit 使用上的問題以及為什麼轉換到 Fluentd, https://www.facebook.com/technologynoteniu/posts/234528588381281
+2021/02/24,introduction, Operator 的介紹與未來, https://www.facebook.com/technologynoteniu/posts/233903505110456
+2021/02/22,introduction, Traefik 介紹文, https://www.facebook.com/technologynoteniu/posts/232583778575762
+2021/02/20,usecases, Backup and restore your own kubernetes, https://www.facebook.com/technologynoteniu/posts/231223958711744
+2021/02/18,cicd, Jenkins Operator, https://www.facebook.com/technologynoteniu/posts/229898645510942
+2021/02/16,others,透過 Terraform 與 GitHub Pages 來打造一個維修中的頁面,https://www.facebook.com/technologynoteniu/posts/228590802308393
 2021/02/14,cicd, 如何透過 ArgoRollout 來達到金絲雀部署, https://www.facebook.com/technologynoteniu/posts/227319199102220
 2021/02/12,usecases, 如何運行一個最便宜的K8s 叢集, https://www.facebook.com/technologynoteniu/posts/225951499238990
 2021/02/10,observability, Prometheus 教學文, https://www.facebook.com/technologynoteniu/posts/224611209373019

@@ -1,4 +1,11 @@
 date,tag,title,link
+2021/04/28,others, metrics 設計上的思路探討,https://www.facebook.com/technologynoteniu/posts/274441227723350
+2021/04/26,network, 從網路觀點來看導入Kubernetes 的可能痛點, https://www.facebook.com/technologynoteniu/posts/273665154467624
+2021/04/24,usecases, GKE 使用上因為底層硬碟問題導致 Statefulset無法擴張,https://www.facebook.com/technologynoteniu/posts/273009101199896
+2021/04/22,usecases, 第三方函式庫引發的資安問題探討,https://www.facebook.com/technologynoteniu/posts/271645274669612
+2021/04/20,usecases, Intuit 探討管理200個叢集的經驗談, https://www.facebook.com/technologynoteniu/posts/270315501469256
+2021/04/18,container, Container 底層如何透過 CFS 來控制資源使用量, https://www.facebook.com/technologynoteniu/posts/269031684930971
+2021/04/16,introduction, Kubernetes 中 Vertical Pod Autoscaler 介紹, https://www.facebook.com/technologynoteniu/posts/267775275056612
 2021/04/14,network, EKS 中如何避免IP 發放完畢,https://www.facebook.com/technologynoteniu/posts/266377761863030
 2021/04/12,usecases, Serverless 年代下依然要使用k8s的四個理由, https://www.facebook.com/technologynoteniu/posts/264979925336147
 2021/04/10,usecases, Netflix 如何打造自己的 Tracing System, https://www.facebook.com/technologynoteniu/posts/263624618805011

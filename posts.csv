@@ -1,4 +1,13 @@
 date,tag,title,link
+2021/03/31,usecases, CNCF 科技雷達第四篇 探討 Secret Management, https://www.facebook.com/technologynoteniu/posts/256963952804411?__cft__[0]=AZXOxjUQ4njtT-0gPj2lkqT2BTp8lhIxiQ5rFktYCukY9P-S2qGkJ2WuO0A9p7RB3ddoSMapvBkOPtCtN3PX6R8SfI-7dhCOfaeneWFtB2EROfxJk78Kb0wddI7p91iDa0_ZxOixS15u3eKUFUxZsRztw693SR0J1yHHD0VBTKVnJQ&__tn__=%2CO%2CP-R
+2021/03/29,network, NetDevOps 的常用工具, https://www.facebook.com/technologynoteniu/posts/255824086251731?__cft__[0]=AZVDsZjCWfj6s42_aHyvo5mhwttsdwlb-ZA2-L3R-PCa535hmYn4MQSvWvCGfG1sGcnDxlVfTwi1v0u4eumtwnQmYWeoxWMXMpsItQYuFYqn52mqo-KOGA31FrYJvMLhbLDZmk4Ux_E7zC1MfmUVkh7aS4XkXhtldx09eL8AZ-7vbQ&__tn__=%2CO%2CP-Rk
+2021/03/25,container, podman 的使用經驗談, https://www.facebook.com/technologynoteniu/posts/252996263201180?__cft__[0]=AZUx70DgMWX_0GncN_FICqeW8hJ_FJsVZEdeZfkjOUj2W-JABiuN_N7NXTTnHOMQ8r5zgpRDBLI40ncJwys724ECU34axRcPHT-yTbZUYR1Yqs6T1fEy-1TdnBgscibQWBYX3arACODEqGiUdsXL_pndTIV70g-SgA8RvScHRIRXwQ&__tn__=%2CO%2CP-R
+2021/03/23,usecases, CNCF 科技雷達第三篇 Storage & Database 的選擇, https://www.facebook.com/technologynoteniu/posts/251654163335390?__cft__[0]=AZXTfG-XwmLYqm2wK55_6fdCvvZ__IoeHQD1kz6TwyI-l0ZKYwesPaYexcred82Pr3Ck9X9ogKKKKxX9tN1wH0-exxpiaftyh5MTDU_P2Cjns6jn1-kywtZrbVwvb4MMg0KKP1o5tE3-AdzBiSJxcKGViKGhaNP6imlvkxcrjdMwsw&__tn__=%2CO%2CP-R
+2021/03/21,others, kubernetes 維運小工具, https://www.facebook.com/technologynoteniu/posts/250015816832558?__cft__[0]=AZVARNjAmFO43VdMfpGw2GA7nLhQC5Ka0YSGRCiF2pEQ0lu6Bpe2NfFeguhYaue-tKKIeyhWshqUfR6Js861GNfyNaLxLzx3j-HjbNudWq2j92Qayn1CGzl6Va8fbEifP-PWNUU4zhjBZmuU5-LhIIJPLeG6gQhUQx3CuUQIMGquqA&__tn__=%2CO%2CP-R
+2021/03/19,cicd, 資安與 CI/CD 整合的架構談, https://www.facebook.com/technologynoteniu/posts/248697066964433
+2021/03/17,usecases, Kubernetes 叢集被惡意挖礦經驗談, https://www.facebook.com/technologynoteniu/posts/247486180418855
+2021/03/15,usecases, AWS 導入k8s 後服務慢上十倍, https://www.facebook.com/technologynoteniu/posts/246130560554417
+2021/03/13,usecases, Istio 整合卡住, https://www.facebook.com/technologynoteniu/posts/244882024012604
 2021/03/11,usecases, GKE 節點與Pod無法自動擴展, https://www.facebook.com/technologynoteniu/posts/243580810809392
 2021/03/09,usecases, CPU Limit 造成服務效能不佳, https://www.facebook.com/technologynoteniu/posts/242276610939812
 2021/03/07,usecases, Conntrack 造成 DNS 出問題, https://www.facebook.com/technologynoteniu/posts/240948024406004

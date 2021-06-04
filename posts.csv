@@ -1,6 +1,24 @@
 date,tag,title,link
-2021/04/28,others, metrics 設計上的思路探討,https://www.facebook.com/technologynoteniu/posts/274441227723350
-2021/04/26,network, 從網路觀點來看導入Kubernetes 的可能痛點, https://www.facebook.com/technologynoteniu/posts/273665154467624
+2021/06/01,kubernetes, Kubernetes 15種不要使用的部署策略與模式, https://www.facebook.com/technologynoteniu/posts/300958348404971
+2021/05/30,cicd, Tekton 使用教學介紹, https://www.facebook.com/technologynoteniu/posts/299635081870631
+2021/05/28,container, 探討 Docker 是如何使用硬碟空間以及該如何有效率地清除, https://www.facebook.com/technologynoteniu/posts/298375648663241
+2021/05/26,usecases, 如何使用 Kubecost 來幫 Rancher 專案評估成本, https://www.facebook.com/technologynoteniu/posts/296972245470248
+2021/05/24,usecases, 作者淺談為什麼不再使用 minikube 而改用 KIND, https://www.facebook.com/technologynoteniu/posts/295577298943076
+2021/05/22,others, Kubernetes 好用小工具介紹, https://www.facebook.com/technologynoteniu/posts/293404779160328
+2021/05/20,others, DevSecOps 專欄介紹, https://www.facebook.com/technologynoteniu/posts/290120169488789
+2021/05/18,usecases, 作者探討 2021 不同的日誌視覺化分析工具, https://www.facebook.com/technologynoteniu/posts/288802732953866
+2021/05/16,container, 微服務架構下監控的設計思路, https://www.facebook.com/technologynoteniu/posts/287524089748397
+2021/05/14,introduction, 如何透過 SSL/TLS 來加強應用程式之間的連線, https://www.facebook.com/technologynoteniu/posts/286263219874484
+2021/05/12,usecases, 如何透過 kubectl flame 火焰圖來進行效能分析, https://www.facebook.com/technologynoteniu/posts/284908593343280
+2021/05/10,introduction, Rancher Harvester 專案的使用介紹與範例, https://www.facebook.com/technologynoteniu/posts/283631330137673
+2021/05/08,usecases, AWS 上 Serverless 架構的使用七種變化, https://www.facebook.com/technologynoteniu/posts/282285850272221
+2021/05/06,usecases, Uber 如何設計架構來處理基於GPS的服務, https://www.facebook.com/technologynoteniu/posts/281005607066912
+2021/05/04,others, MAC brew 的資安問題與示範, https://www.facebook.com/technologynoteniu/posts/279676850533121
+2021/05/02,usecases, 淺談為什麼身為工程團隊管理人員依然要繼續寫程式, https://www.facebook.com/technologynoteniu/posts/278402427327230
+2021/04/30,kubernetes, Config Map 使用上可能會造成的 JSON 格式跑版問題, https://www.facebook.com/technologynoteniu/posts/277058847461588
+2021/04/28,others, 如何打造一個酷炫的 GitHub 個人首頁, https://www.facebook.com/technologynoteniu/posts/275778024256337
+2021/04/26,others, metrics 設計上的思路探討,https://www.facebook.com/technologynoteniu/posts/274441227723350
+2021/04/25,network, 從網路觀點來看導入Kubernetes 的可能痛點, https://www.facebook.com/technologynoteniu/posts/273665154467624
 2021/04/24,usecases, GKE 使用上因為底層硬碟問題導致 Statefulset無法擴張,https://www.facebook.com/technologynoteniu/posts/273009101199896
 2021/04/22,usecases, 第三方函式庫引發的資安問題探討,https://www.facebook.com/technologynoteniu/posts/271645274669612
 2021/04/20,usecases, Intuit 探討管理200個叢集的經驗談, https://www.facebook.com/technologynoteniu/posts/270315501469256

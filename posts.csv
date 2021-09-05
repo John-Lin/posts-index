@@ -1,4 +1,18 @@
 date,tag,title,link
+2021/06/29,introduction, Cloud Native 領域的優勢與相關專案, https://www.facebook.com/technologynoteniu/posts/319082926592513
+2021/06/27,introduction, K3D 的詳細介紹與使用, https://www.facebook.com/technologynoteniu/posts/317755616725244
+2021/06/25,introduction, Library Helm Chart 的開發介紹, https://www.facebook.com/technologynoteniu/posts/316465763520896
+2021/06/23,usecases, Netflix 的 eBPF 介紹文, https://www.facebook.com/technologynoteniu/posts/315150713652401
+2021/06/21,kubernetes, Kubernetes Resource 基本介紹文,https://www.facebook.com/technologynoteniu/posts/313813690452770
+2021/06/19,others, 效能調校系列文(4), https://www.facebook.com/technologynoteniu/posts/312575030576636
+2021/06/17,others, 效能調校系列文(3), https://www.facebook.com/technologynoteniu/posts/311332047367601
+2021/06/15,others, 效能調校系列文(2), https://www.facebook.com/technologynoteniu/posts/310089047491901
+2021/06/13,others, 效能調校系列文(1), https://www.facebook.com/technologynoteniu/posts/308751397625666
+2021/06/11,cicd, GitOps 的起源與發展, https://www.facebook.com/technologynoteniu/posts/307451354422337
+2021/06/09,usecases, Netflix 內部架構分享文, https://www.facebook.com/technologynoteniu/posts/306146844552788
+2021/06/07,kubernetes, Kubernetes 15種不要使用的部署策略與模式(下),https://www.facebook.com/technologynoteniu/posts/304868071347332
+2021/06/06,container, Docker Contianer的Best Practice, https://www.facebook.com/technologynoteniu/posts/304207338080072
+2021/06/04,kubernetes, Kubernetes 15種不要使用的部署策略與模式(中), https://www.facebook.com/technologynoteniu/posts/302935294873943
 2021/06/01,kubernetes, Kubernetes 15種不要使用的部署策略與模式, https://www.facebook.com/technologynoteniu/posts/300958348404971
 2021/05/30,cicd, Tekton 使用教學介紹, https://www.facebook.com/technologynoteniu/posts/299635081870631
 2021/05/28,container, 探討 Docker 是如何使用硬碟空間以及該如何有效率地清除, https://www.facebook.com/technologynoteniu/posts/298375648663241

@@ -1,4 +1,20 @@
 date,tag,title,link
+2021/08/31,others, TOFU (Trust-On-First-Use) 的機制介紹, https://www.facebook.com/technologynoteniu/posts/360966752404130
+2021/08/29,usecases, 如何透過 Harbor & Keycloak & Istio 來打造 Kubernetes 環境, https://www.facebook.com/technologynoteniu/posts/359651409202331
+2021/08/27,others, Bash CLI 面試挑戰, https://www.facebook.com/technologynoteniu/posts/358298199337652
+2021/08/25,introduction, GKE/EKS/AKS/DOKS 四種雲端比較差異, https://www.facebook.com/technologynoteniu/posts/356979272802878
+2021/08/23,others, 使用透過 Vagrant 來打造 Ceph, https://www.facebook.com/technologynoteniu/posts/355687726265366
+2021/08/21,usecases, Argo Worflows 的使用者調查報告, https://www.facebook.com/technologynoteniu/posts/354374916396647
+2021/08/19,usecases, HelloFresh 如何使用 Ambassador 來處理流量應用程式, https://www.facebook.com/technologynoteniu/posts/353036783197127
+2021/08/17,others, Lens 相關擴充功能, https://www.facebook.com/technologynoteniu/posts/351716419995830
+2021/08/15,others, DevOps & SRE & Platform Engineer 的差異, https://www.facebook.com/technologynoteniu/posts/350414603459345
+2021/08/13,introduction, Kubernetes 內的 Authentication & Authorization 兩大塊, https://www.facebook.com/technologynoteniu/posts/349088606925278
+2021/08/11,others, CKS 的概念以及考試準備, https://www.facebook.com/technologynoteniu/posts/347750070392465
+2021/08/09,others, SSL & Cert-Manager 來管理, https://www.facebook.com/technologynoteniu/posts/346358767198262
+2021/08/07,cicd, 2021 必須理解的 IaC 工具,https://www.facebook.com/technologynoteniu/posts/344913647342774
+2021/08/05,cicd, KubeStack 基於 GitOps 來處理 Terraform, https://www.facebook.com/technologynoteniu/posts/343595084141297
+2021/08/03,others, Software Supply Chain 的安全評估, https://www.facebook.com/technologynoteniu/posts/342246137609525
+2021/08/01,usecases, Why Ably 評估後不使用 Kubernetes, https://www.facebook.com/technologynoteniu/posts/341088541058618
 2021/07/30,usecases, 軟體工程師十年經驗分享, https://www.facebook.com/technologynoteniu/posts/339605564540249
 2021/07/28,introduction, Kubernetes 的儲存介紹,https://www.facebook.com/technologynoteniu/posts/338290281338444
 2021/07/26,tool, Kubernetes 的開源工具, https://www.facebook.com/technologynoteniu/posts/336960611471411

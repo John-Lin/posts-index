@@ -1,4 +1,26 @@
 date,tag,title,link
+2021/10/15,others, 如何將 AWS 機密資訊整合到 Kubernetes, https://www.facebook.com/technologynoteniu/posts/390894606078011
+2021/10/13,introduction, 探討 Kubernetes 內重要的六個概念, https://www.facebook.com/technologynoteniu/posts/389383852895753
+2021/10/11,introduction, Kubernetes 即將支援 swap, https://www.facebook.com/technologynoteniu/posts/388057803028358
+2021/10/07,container, Azure 上的資安漏洞，讓你可以存取他人 container, https://www.facebook.com/technologynoteniu/posts/385137573320381
+2021/10/05,others, Monorepo 的好壞處以及為什麼值得使用, https://www.facebook.com/technologynoteniu/posts/383845706782901
+2021/10/04,network, CloudFlare 探討 FB 出包原因, https://www.facebook.com/technologynoteniu/posts/383157193518419
+2021/10/03,introduction, 探討 kubernetes 未來的新領域, https://www.facebook.com/technologynoteniu/posts/382702036897268
+2021/09/28,others, System Design 領域內架構介紹, https://www.facebook.com/technologynoteniu/posts/379468987220573
+2021/09/26,introduction, 2021/06 科技雷達調查, https://www.facebook.com/technologynoteniu/posts/378213507346121
+2021/09/26,others, 從 StackOverflow 觀察 Full-Time 比例下降, https://www.facebook.com/technologynoteniu/posts/378213144012824
+2021/09/24,others, 基於 NSA/CISA 安全檢定的開源專案 Kubescape, https://www.facebook.com/technologynoteniu/posts/376929560807849
+2021/09/22,network, PING 指令介紹, https://www.facebook.com/technologynoteniu/posts/375620037605468
+2021/09/20,others, Engineering Manager 的面試分享, https://www.facebook.com/technologynoteniu/posts/374272274406911
+2021/09/18,introduction, Kubernetes v1.22 新功能, https://www.facebook.com/technologynoteniu/posts/372990197868452
+2021/09/16,introduction, Kubernetes Chaos Mesh 介紹, https://www.facebook.com/technologynoteniu/posts/371693067998165
+2021/09/14,introduction, Kubernetes Label 介紹, https://www.facebook.com/technologynoteniu/posts/370395514794587
+2021/09/12,container, Docker 員工談為什麼 Docker 市場會失敗, https://www.facebook.com/technologynoteniu/posts/369088391591966
+2021/09/10,usecase, 提升 on-call 的效率方式, https://www.facebook.com/technologynoteniu/posts/367687458398726
+2021/09/08,others, Shell 內的 > < 2>&1 等差異介紹, https://www.facebook.com/technologynoteniu/posts/366343451866460
+2021/09/06,network, SO_REUSEPORT 的好處介紹,https://www.facebook.com/technologynoteniu/posts/365012185332920
+2021/09/04,others, Hyperlink 的歷史介紹文, https://www.facebook.com/technologynoteniu/posts/363693522131453
+2021/09/01,usecase, ITHOME 鐵人賽, https://www.facebook.com/technologynoteniu/posts/362290215605117
 2021/08/31,others, TOFU (Trust-On-First-Use) 的機制介紹, https://www.facebook.com/technologynoteniu/posts/360966752404130
 2021/08/29,usecases, 如何透過 Harbor & Keycloak & Istio 來打造 Kubernetes 環境, https://www.facebook.com/technologynoteniu/posts/359651409202331
 2021/08/27,others, Bash CLI 面試挑戰, https://www.facebook.com/technologynoteniu/posts/358298199337652

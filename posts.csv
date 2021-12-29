@@ -1,4 +1,42 @@
 date,tag,title,link
+2021/12/28,others, 設計 Dating App 的系統思路, https://www.facebook.com/technologynoteniu/posts/438859757948162
+2021/12/26,others, Ambassador 模式介紹,https://www.facebook.com/technologynoteniu/posts/437640171403454
+2021/12/24,tool, 該停止使用 python3.6了,https://www.facebook.com/technologynoteniu/posts/436364391531032
+2021/12/22,usecases, 工作 20 年的系統架構原則談, https://www.facebook.com/technologynoteniu/posts/435021938331944
+2021/12/20,others, 遊戲設計中的人物打造過程, https://www.facebook.com/technologynoteniu/posts/433800235120781
+2021/12/18,container, Container Dockerfile 中的 Shell/Exec 格式差異, https://www.facebook.com/technologynoteniu/posts/432574848576653
+2021/12/16,others, Bash 中的 Signal 介紹文, https://www.facebook.com/technologynoteniu/posts/431323882035083
+2021/12/14,usecases, Infrastructure 的經驗談, https://www.facebook.com/technologynoteniu/posts/430069308827207
+2021/12/12,container, 建置 Container 中要注意的事項, https://www.facebook.com/technologynoteniu/posts/428778022289669
+2021/12/09,others, log4j 安全性漏洞, https://www.facebook.com/technologynoteniu/posts/427014239132714
+2021/12/09,others, 四人幫設計模式的歷史探討, https://www.facebook.com/technologynoteniu/posts/426901465810658
+2021/12/07,usecases, Grafana 安全性漏洞, https://www.facebook.com/technologynoteniu/posts/425501989283939
+2021/12/06,usecases, MySQL 員工離職心得文, https://www.facebook.com/technologynoteniu/posts/425096492657822
+2021/12/05,tool, 重構的教學網站，包含各語言的實作範例, https://www.facebook.com/technologynoteniu/posts/424420129392125
+2021/12/03,others, Linux Kernel 關於 Lock 的 patch, https://www.facebook.com/technologynoteniu/posts/423238779510260
+2021/12/01,others, 遊戲開發的基本概念，2D/3D/2.5D, https://www.facebook.com/technologynoteniu/posts/421964732970998
+2021/11/28,others, 開發類 Whatsapp 的可能架構探討, https://www.facebook.com/technologynoteniu/posts/420063863161085
+2021/11/26,introduction, Dockershim 即將移除, https://www.facebook.com/technologynoteniu/posts/418869913280480
+2021/11/24,container, Container 底層的 cgroup 介紹, https://www.facebook.com/technologynoteniu/posts/417602396740565
+2021/11/20,others, 打造一個 TinyURL 系統的背後思路, https://www.facebook.com/technologynoteniu/posts/416271590206979
+2021/11/20,usecases, LinkedIn 如何透過k8s打造一個遠端開發環境, https://www.facebook.com/technologynoteniu/posts/414914280342710
+2021/11/18,cicd, Flux 內的資安提升方式, https://www.facebook.com/technologynoteniu/posts/413598527140952
+2021/11/16,network, Linux Kernel 關於網路效能提升的patch, https://www.facebook.com/technologynoteniu/posts/412232510610887
+2021/11/15,tool, Airflow 與 Prefect 的比較, https://www.facebook.com/technologynoteniu/posts/411582814009190
+2021/11/13,others, 10 個微服務架構的實戰分享, https://www.facebook.com/technologynoteniu/posts/410318114135660
+2021/11/11,others, 分散式 cache 的設計思路, https://www.facebook.com/technologynoteniu/posts/408957307605074
+2021/11/09,tool, 三個自動化好用工具, https://www.facebook.com/technologynoteniu/posts/407666134400858
+2021/11/06,usecases, LinkedIn 探討內部 A/B Testing 的架構, https://www.facebook.com/technologynoteniu/posts/405703441263794
+2021/11/04,others, 為什麼Gitlab 上市估值太高, https://www.facebook.com/technologynoteniu/posts/404344784732993
+2021/11/02,introduction, F5 繼續分享如何選擇合適的 Ingress Controller, https://www.facebook.com/technologynoteniu/posts/402992384868233
+2021/10/31,introduction, F5 分享如何選擇一個合適的 Ingress Controller, https://www.facebook.com/technologynoteniu/posts/401729838327821
+2021/10/29,usecases, DevOps 時代的團隊合作到底該怎麼做, https://www.facebook.com/technologynoteniu/posts/400276658473139
+2021/10/27,usecases, Netflix 探討 A/B Testing 的案例與概念, https://www.facebook.com/technologynoteniu/posts/398855865281885
+2021/10/25,introduction, 降低 AWS 上的 Kubernetes 價格, https://www.facebook.com/technologynoteniu/posts/397497722084366
+2021/10/23,others, 面試經驗分享文, https://www.facebook.com/technologynoteniu/posts/396166485550823
+2021/10/21,others, 15 年開發者生涯中的五大反思, https://www.facebook.com/technologynoteniu/posts/394881232346015
+2021/10/19,container, Container 的未來發展, https://www.facebook.com/technologynoteniu/posts/393500502484088
+2021/10/17,introduction, Kubernetes Pod Eviction 介紹, https://www.facebook.com/technologynoteniu/posts/392249045942567
 2021/10/15,others, 如何將 AWS 機密資訊整合到 Kubernetes, https://www.facebook.com/technologynoteniu/posts/390894606078011
 2021/10/13,introduction, 探討 Kubernetes 內重要的六個概念, https://www.facebook.com/technologynoteniu/posts/389383852895753
 2021/10/11,introduction, Kubernetes 即將支援 swap, https://www.facebook.com/technologynoteniu/posts/388057803028358
@@ -16,11 +54,11 @@ date,tag,title,link
 2021/09/16,introduction, Kubernetes Chaos Mesh 介紹, https://www.facebook.com/technologynoteniu/posts/371693067998165
 2021/09/14,introduction, Kubernetes Label 介紹, https://www.facebook.com/technologynoteniu/posts/370395514794587
 2021/09/12,container, Docker 員工談為什麼 Docker 市場會失敗, https://www.facebook.com/technologynoteniu/posts/369088391591966
-2021/09/10,usecase, 提升 on-call 的效率方式, https://www.facebook.com/technologynoteniu/posts/367687458398726
+2021/09/10,usecases, 提升 on-call 的效率方式, https://www.facebook.com/technologynoteniu/posts/367687458398726
 2021/09/08,others, Shell 內的 > < 2>&1 等差異介紹, https://www.facebook.com/technologynoteniu/posts/366343451866460
 2021/09/06,network, SO_REUSEPORT 的好處介紹,https://www.facebook.com/technologynoteniu/posts/365012185332920
 2021/09/04,others, Hyperlink 的歷史介紹文, https://www.facebook.com/technologynoteniu/posts/363693522131453
-2021/09/01,usecase, ITHOME 鐵人賽, https://www.facebook.com/technologynoteniu/posts/362290215605117
+2021/09/01,usecases, ITHOME 鐵人賽, https://www.facebook.com/technologynoteniu/posts/362290215605117
 2021/08/31,others, TOFU (Trust-On-First-Use) 的機制介紹, https://www.facebook.com/technologynoteniu/posts/360966752404130
 2021/08/29,usecases, 如何透過 Harbor & Keycloak & Istio 來打造 Kubernetes 環境, https://www.facebook.com/technologynoteniu/posts/359651409202331
 2021/08/27,others, Bash CLI 面試挑戰, https://www.facebook.com/technologynoteniu/posts/358298199337652
@@ -131,8 +169,8 @@ date,tag,title,link
 2021/01/31,usecases, kubectl 1.18 帶來的不相容改變, https://www.facebook.com/technologynoteniu/posts/218323670001773
 2021/01/29,network, Kubernetes Pod 如何透過 CNI 獲取 IP, https://www.facebook.com/technologynoteniu/posts/217032360130904
 2021/01/27,terraform, 透過 Terraform 創建wordpress 的範例,https://www.facebook.com/technologynoteniu/posts/215764940257646
-2021/01/25,contaienr, Docker 20.10 的改變,https://www.facebook.com/technologynoteniu/posts/214479493719524
-2021/01/23,contaienr, Dockerfile 的小技巧,https://www.facebook.com/technologynoteniu/posts/213107267190080
+2021/01/25,container, Docker 20.10 的改變,https://www.facebook.com/technologynoteniu/posts/214479493719524
+2021/01/23,container, Dockerfile 的小技巧,https://www.facebook.com/technologynoteniu/posts/213107267190080
 2021/01/21,terraform, Terraform 範例介紹文, https://www.facebook.com/technologynoteniu/posts/211760017324805
 2021/01/19,introduction, 2020 KubeConf 介紹, https://www.facebook.com/technologynoteniu/posts/210372760796864
 2021/01/17,network, Ingress 介紹文,https://www.facebook.com/technologynoteniu/posts/209045874262886

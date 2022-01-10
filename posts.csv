@@ -1,4 +1,5 @@
 date,tag,title,link
+2022/01/10,usecases,「2021年回顧，因為 DB 的效能的爭論所以我女友跟我分手了....」,https://www.facebook.com/110694344098040/posts/446622227171915/
 2022/01/09,tool,「使用 OpenKruise v1.0 提供更進階的 workload 部署與升級」,https://www.facebook.com/110694344098040/posts/446029147231223/
 2022/01/07,introduction,「透過 Kubefarm 來自動化幫實體機器打造基於 Kubernetes in Kubernetes 的 Kubernetes 環境」,https://www.facebook.com/110694344098040/posts/444802554020549/
 2022/01/04,usecases,「Meta 如何打造一個供多團隊使用的 SLI/SLO 設定與觀測平台」,https://www.facebook.com/110694344098040/posts/442860054214799/

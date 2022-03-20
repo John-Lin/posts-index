@@ -1,13 +1,13 @@
 date,tag,title,link
 2022/03/18,usecases,「Facebook 內的文化特別之處」,https://www.facebook.com/110694344098040/posts/488927506274720/
-2022/03/16,other,「Package Maintainers 應該要具備的資安概念」,https://www.facebook.com/110694344098040/posts/487602996407171/
+2022/03/16,others,「Package Maintainers 應該要具備的資安概念」,https://www.facebook.com/110694344098040/posts/487602996407171/
 2022/03/13,network,「如何判別到底要不要使用 Service Mesh」,https://www.facebook.com/110694344098040/posts/486350646532406/
 2022/03/11,usecases,「透過 Helm 與 Terraform 來自動 Re-new Cloudflare origin CA」,https://www.facebook.com/110694344098040/posts/484443583389779/
 2022/03/07,others,「20年工程師生涯教會我的 20 件事情」,https://www.facebook.com/110694344098040/posts/481915493642588/
 2022/03/04,others,「Kubernetes 紀錄片 」,https://www.facebook.com/110694344098040/posts/479989620501842/
 2022/03/02,others,「Golang 原始碼的的版本控制歷史」,https://www.facebook.com/110694344098040/posts/478726680628136/
-2022/02/28,other,「大家總是喜歡誇大自己的工作時數」,https://www.facebook.com/110694344098040/posts/477314697436001/
-2022/02/25,other,「ClickHouse 與 Elasticsearch 的比較」,https://www.facebook.com/110694344098040/posts/475359550964849/
+2022/02/28,others,「大家總是喜歡誇大自己的工作時數」,https://www.facebook.com/110694344098040/posts/477314697436001/
+2022/02/25,others,「ClickHouse 與 Elasticsearch 的比較」,https://www.facebook.com/110694344098040/posts/475359550964849/
 2022/02/23,usecases,「Paypal 如何調整 Kubernetes 讓其規模達到四千節點，20萬個 Pod」,https://www.facebook.com/110694344098040/posts/474030197764451/
 2022/02/21,others,「macOS 的 fsync 實作其實跟大家想像的完全不同 」,https://www.facebook.com/110694344098040/posts/472771127890358/
 2022/02/18,container,「 取代 Docker Desktop 的高效率開發環境」,https://www.facebook.com/110694344098040/posts/470851184749019/
@@ -19,12 +19,12 @@ date,tag,title,link
 2022/02/04,others,「如何用 2297 個 Linux Kernel Patches 來重新整理所有的 header file 並提升整個 Kernel 建置時間高達 78%」,https://www.facebook.com/110694344098040/posts/462101998957271/
 2022/02/02,tool,「如何使用 jq 讓你的 kubectl更為強大」,https://www.facebook.com/110694344098040/posts/461299162370888/
 2022/01/27,others,「PwnKit 長達 12 年可以讓一般使用者輕鬆變成 Root 的 CVE」,https://www.facebook.com/110694344098040/posts/457303766103761/
-2022/01/24,other,「Linux 5.17 將使用 BLAKE2s 來替代 SAH1 來達到更安全更快速的隨機亂數產生器」,https://www.facebook.com/110694344098040/posts/455424192958385/
+2022/01/24,others,「Linux 5.17 將使用 BLAKE2s 來替代 SAH1 來達到更安全更快速的隨機亂數產生器」,https://www.facebook.com/110694344098040/posts/455424192958385/
 2022/01/21,introduction,「Kubernetes 內透過 DNS-01 處理 wildcard TLS 的兩三事」,https://www.facebook.com/110694344098040/posts/453574999809971/
 2022/01/19,cicd,「透過 Crossplane 與 ArgoCD 來達成應用程式與基礎建設的 GitOps 部署方式」,https://www.facebook.com/110694344098040/posts/452223709945100/
 2022/01/17,cicd,「The pains of GitOps 1.0」,https://www.facebook.com/110694344098040/posts/451024380065033/
 2022/01/13,introduction,「Kubernetes system-reserved kube-reserved cgroup 與 capacity allocatable 的複雜關係」,https://www.facebook.com/110694344098040/posts/448691766964961/
-2022/01/11,other,「NPM 的 colors modules 打亂一堆人...」,https://www.facebook.com/110694344098040/posts/447439463756858/
+2022/01/11,others,「NPM 的 colors modules 打亂一堆人...」,https://www.facebook.com/110694344098040/posts/447439463756858/
 2022/01/10,usecases,「2021年回顧，因為 DB 的效能的爭論所以我女友跟我分手了....」,https://www.facebook.com/110694344098040/posts/446622227171915/
 2022/01/09,tool,「使用 OpenKruise v1.0 提供更進階的 workload 部署與升級」,https://www.facebook.com/110694344098040/posts/446029147231223/
 2022/01/07,introduction,「透過 Kubefarm 來自動化幫實體機器打造基於 Kubernetes in Kubernetes 的 Kubernetes 環境」,https://www.facebook.com/110694344098040/posts/444802554020549/

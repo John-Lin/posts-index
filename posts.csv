@@ -1,4 +1,5 @@
 date,tag,title,link
+2022/04/11,introduction,「升級 Kubernetes 1.22 的注意事項」,https://www.facebook.com/110694344098040/posts/504129478087856/
 2022/04/06,introduction,「kubectl delete 的行為跟 docker delete 完全不同」,https://www.facebook.com/110694344098040/posts/500920028408801/
 2022/04/04,containers,「Dockerfile 中透過 COPY --chomd 比透過 RUN chomd 可以省下更多空間」,https://www.facebook.com/110694344098040/posts/499630591871078/
 2022/03/30,others,「軟體工程師你真的工作的很開心嗎??」,https://www.facebook.com/110694344098040/posts/496532335514237/

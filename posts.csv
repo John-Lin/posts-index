@@ -1,8 +1,14 @@
 date,tag,title,link
+2022/07/22,others, 「就是一份唸書的書單」,https://www.facebook.com/technologynoteniu/posts/pfbid029EEXaYLceFz4wsovHW8K6Rgi4248ZXBx6vkHmL9cNVnoACEYRrf92KLiTw5mSNZzl
+2022/07/21,others,「探討 Linux 系統下 Cache 與 Buffer 的差異」,https://www.facebook.com/technologynoteniu/posts/pfbid02RwumW2dXdsYnoS4pp5cMzwcj2mdnmKDVi6UNWq7g4i8bK9qzBdaTorPAC1hQdwNsl
+2022/07/19,network,「一個名為 comcast 的網路模擬小工具」,https://www.facebook.com/technologynoteniu/posts/pfbid0QDsgtNZ2qkeH6qy99S3bjAn7bfySJw2bDoA4tx5VSWBHKSm7dtCDmurb9u7BAQzyl
+2022/07/17,usecases, Airbnb 是如何因應業務型態來動態調整 Kubernetes 叢集大小的?」, https://www.facebook.com/technologynoteniu/posts/pfbid02n3QBMfXFMdbz6r7tJCLe5w8mtzz2cY6cNYfuswgwsoJiYDy22bke1Re8TvS9JDrNl
+2022/07/14,tool,「Loft Vcluster 正式提供 ClusterAPI 來提供統一方式打造多租戶的 k8s 叢集」, https://www.facebook.com/technologynoteniu/posts/pfbid02YMLJz4qwBYxxfkssZgW3bWkxnktj857RD4Z8YQnkdNCvABu9YKCevKduN1eif3zrl
+2022/07/12,observability,「探討微服務架構下如何透過設計模式來打造一個可觀察性(Observability)的系統」,https://www.facebook.com/technologynoteniu/posts/pfbid0ufA3huxstHpwqLeaPPPnRpkXbugKVP53khsGMXtRV8qsKi2wibuSA71USZwGzvKDl
 2022/07/11,others,「SRE 的工作介绍」,https://www.facebook.com/110694344098040/posts/565230311977772/
 2022/06/29,others,「DevOps is a failure」,https://www.facebook.com/110694344098040/posts/557240022776801/
 2022/06/27,others,「面試人生 - 設計一個簡易的分散式 Job Scheduler」,https://www.facebook.com/110694344098040/posts/555780526256084/
-2022/06/23,networks,「Cloudflare 06/21 災後報告」,https://www.facebook.com/110694344098040/posts/553097589857711/
+2022/06/23,network,「Cloudflare 06/21 災後報告」,https://www.facebook.com/110694344098040/posts/553097589857711/
 2022/06/15,others,「啟動 container 直接 kernel panic 的 bug」,https://www.facebook.com/110694344098040/posts/547641757069961/
 2022/06/13,others,「分散式系統上的常見網路謬誤」,https://www.facebook.com/110694344098040/posts/546352647198872/
 2022/06/09,others,「為什麼有些工程師不相信 Best Practices 」,https://www.facebook.com/110694344098040/posts/543678767466260/
@@ -11,10 +17,10 @@ date,tag,title,link
 2022/06/01,others,「goss, 一個簡易且迅速的 server 驗證工具」,https://www.facebook.com/110694344098040/posts/538121161355354/
 2022/05/30,others,「如何寫出有意義的討論訊息 」,https://www.facebook.com/110694344098040/posts/536745534826250/
 2022/05/27,others,「如何提供專業 Code Review 意見」,https://www.facebook.com/110694344098040/posts/534629905037813/
-2022/05/25,tools,「Mizu, 一套用來檢視 Kubernetes Traffic 的視覺化工具」,https://www.facebook.com/110694344098040/posts/533222475178556/
+2022/05/25,tool,「Mizu, 一套用來檢視 Kubernetes Traffic 的視覺化工具」,https://www.facebook.com/110694344098040/posts/533222475178556/
 2022/05/23,others,「Tetragon, 基於 eBPF 的 Kubernetes 資安管理工具」,https://www.facebook.com/110694344098040/posts/531891931978277/
-2022/05/20,tools,「Datree, Kubernetes Configuration 檢查工具」,https://www.facebook.com/110694344098040/posts/529885548845582/
-2022/05/11,networking,「基於 eBPF 的 ServiceMesh」,https://www.facebook.com/110694344098040/posts/523828699451267/
+2022/05/20,tool,「Datree, Kubernetes Configuration 檢查工具」,https://www.facebook.com/110694344098040/posts/529885548845582/
+2022/05/11,network,「基於 eBPF 的 ServiceMesh」,https://www.facebook.com/110694344098040/posts/523828699451267/
 2022/05/09,others,「提升 DevOps 技術的免費書籍」,https://www.facebook.com/110694344098040/posts/522463922921078/
 2022/05/06,terraform,「新手閱讀，我踩過的 Terraform 各種雷」,https://www.facebook.com/110694344098040/posts/520427666458037/
 2022/05/04,container,「容器的除錯之路，遇到 Permission Denied 該怎麼辦」,https://www.facebook.com/110694344098040/posts/519035143263956/
@@ -25,14 +31,14 @@ date,tag,title,link
 2022/04/22,others,「DevOps 的 2022 學習之路」,https://www.facebook.com/110694344098040/posts/511161867384617/
 2022/04/20,others,「DevOps 的 2022 學習之路」,https://www.facebook.com/110694344098040/posts/509922080841929/
 2022/04/18,introduction,「強化 Kubernetes 叢集的必備工具」,https://www.facebook.com/110694344098040/posts/508652284302242/
-2022/04/15,tools,「你真的有正確使用 SSH 嗎?」,https://www.facebook.com/110694344098040/posts/506660417834762/
+2022/04/15,tool,「你真的有正確使用 SSH 嗎?」,https://www.facebook.com/110694344098040/posts/506660417834762/
 2022/04/13,introduction,「透過 Kubernetes Event-Driver Autoscaler(KEDA) 來根據各種指標動態擴充容器」,https://www.facebook.com/110694344098040/posts/505370067963797/
 2022/04/11,introduction,「升級 Kubernetes 1.22 的注意事項」,https://www.facebook.com/110694344098040/posts/504129478087856/
 2022/04/06,introduction,「kubectl delete 的行為跟 docker delete 完全不同」,https://www.facebook.com/110694344098040/posts/500920028408801/
-2022/04/04,containers,「Dockerfile 中透過 COPY --chomd 比透過 RUN chomd 可以省下更多空間」,https://www.facebook.com/110694344098040/posts/499630591871078/
+2022/04/04,container,「Dockerfile 中透過 COPY --chomd 比透過 RUN chomd 可以省下更多空間」,https://www.facebook.com/110694344098040/posts/499630591871078/
 2022/03/30,others,「軟體工程師你真的工作的很開心嗎??」,https://www.facebook.com/110694344098040/posts/496532335514237/
 2022/03/28,container,「如何於 Docker 環境中運行 rootless 模式」,https://www.facebook.com/110694344098040/posts/495310558969748/
-2022/03/25,tools,「一個用來管理 Kubernetes 開源工具的開源工具」,https://www.facebook.com/110694344098040/posts/493326122501525/
+2022/03/25,tool,「一個用來管理 Kubernetes 開源工具的開源工具」,https://www.facebook.com/110694344098040/posts/493326122501525/
 2022/03/23,usecases,「為什麼 3A 大作的遊戲室都不愛喜歡使用 STL」,https://www.facebook.com/110694344098040/posts/492076062626531/
 2022/03/21,terraform,「Terraform 生態下的五個相關輔助工具」,https://www.facebook.com/110694344098040/posts/490853529415451/
 2022/03/18,usecases,「Facebook 內的文化特別之處」,https://www.facebook.com/110694344098040/posts/488927506274720/
